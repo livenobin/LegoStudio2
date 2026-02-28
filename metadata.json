@@ -1,0 +1,5 @@
+{
+  "name": "Lego Boy & Image Editor",
+  "description": "Generate and edit images using Gemini 2.5 Flash Image. Start by generating a boy playing with Legos or upload your own image to edit.",
+  "requestFramePermissions": []
+}
